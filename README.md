@@ -1,8 +1,8 @@
 - 👋 Oi, meu nome é Vitor Vieira, vulgo @Karmaroc.
 - 👀 Eu tenho interesse em tecnologias disruptivas como Cibersegurança, IA e Blockchain.
-- 🌱 Estou estudando atualmente desenvolvimento de software com foco em Desenvolvimento Web Front-end.
+- 🌱 Estou estudando atualmente desenvolvimento de software.
 - 💞️ Quero colaborar em grandes projetos a partir do momento que a primeira oportunidade chegar junto com a minha capacidade.
-- 📫 Me encontrem pelo e-mail: vitor.manoel.depaula.vieira@gmail.com.
+- 📫 Me encontrem pelo e-mail: manoelvitor506@gmail.com.
 
 ``Meu objetivo com programação é desenvolver expertise para empreender nos próximos anos.``
 <!---
